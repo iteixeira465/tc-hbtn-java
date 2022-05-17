@@ -1,8 +1,21 @@
+import java.text.NumberFormat;
+import java.util.Locale;
+
 public class PrintFormatacaoNumeros {
     public static void main(String[] args) {
+
+
         float taxa = 0.2456f;
         float valor = 7654.321f;
-        System.out.printf("Valor: R$ %.2f\n", valor);
-        System.out.print("Taxa: " + String.format("%.2f", taxa) +"%");
+
+        Locale localeBR = new Locale("en","US");
+        NumberFormat newValor = NumberFormat.getInstance(localeBR);
+        newValor.setMaximumFractionDigits(2);
+
+
+        System.out.println("Valor:  R$ " + newValor.format(valor));
+
+        System.out.printf("Taxa: %.02f%% \n", taxa);
+
     }
 }
