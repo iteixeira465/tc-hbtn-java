@@ -2,7 +2,8 @@ public class println{
 
     public static void main(String[] args) {
 
-        float pi = 3.142;
-        System.out.println("Valor de pi:" + pi);
+        float pi = (float) 3.142;
+        System.out.printf("Valor de pi: " + "%.3f", pi);
+        System.out.println();
     }
 }
