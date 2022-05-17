@@ -13,9 +13,9 @@ public class PrintFormatacaoNumeros {
         newValor.setMaximumFractionDigits(2);
 
 
-        System.out.println("Valor:  R$ " + newValor.format(valor));
+        System.out.println("Valor: R$ " + newValor.format(valor));
 
-        System.out.printf("Taxa: %.02f%% \n", taxa);
+        System.out.printf("Taxa: %.02f%%\n", taxa);
 
     }
 }
