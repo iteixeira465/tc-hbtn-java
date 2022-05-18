@@ -1,23 +1,22 @@
 public class InteiroPositivo {
 
+
     private int valor;
-
-    public InteiroPositivo(int valor) {
-        this.valor = valor;
-        testInt(this.valor);
-    }
-
-    public InteiroPositivo(String valor) {
-        this.valor = Integer.parseInt(valor);
-        testInt(this.valor);
-    }
 
     public int getValor() {
         return valor;
     }
 
-    public void setValor(int valor) {
+    public void setValor(int valor)  {
+        testInt(valor);
         this.valor = valor;
+    }
+
+
+    public InteiroPositivo(int valor) {
+        this.valor = valor;
+        testInt(this.valor);
+
     }
 
     private void testInt(Integer i) {
@@ -34,6 +33,7 @@ public class InteiroPositivo {
         testInt(this.valor);
     }
 
+
     public  Boolean ehPrimo(){
         if (this.valor <= 1) {
             return false;
@@ -45,4 +45,5 @@ public class InteiroPositivo {
         }
         return true;
     }
+
 }
