@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/0x09/agregacao/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Trizte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +34,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29IZFs7L0lNhqYQFCdTEcZIyg4v" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,11 +45,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/igabriel/Documentos/workspace/tc-hbtn-java"
+    "last_opened_file_path": "/home/igabriel/Documentos/workspace/tc-hbtn-java/0x10/plano_mordor/comida"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x10/plano_mordor/comida" />
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -356,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653167495514</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="1">
+      <created>1653168274035</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1653168274035</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
