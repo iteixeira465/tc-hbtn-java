@@ -14,8 +14,3 @@ public class Program {
         System.out.printf("%b\n", caractereEhMaiusculo5);
     }
 }
-public class Caractere {
-    public static boolean EhMaiusculo(char c){
-        return Character.isUpperCase(c) ? true : false;
-    }
-}
