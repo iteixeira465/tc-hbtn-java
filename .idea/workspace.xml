@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="3">
-      <change afterPath="$PROJECT_DIR$/0x01/pares/NumerosPares.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00004" summary="1">
-      <created>1652804177869</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1652804177869</updated>
     </task>
     <task id="LOCAL-00005" summary="1">
       <created>1652804248803</created>
@@ -395,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653320701401</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="3">
+      <created>1653321647269</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1653321647269</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
