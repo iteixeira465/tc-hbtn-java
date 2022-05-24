@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Task Herança" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +33,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x05" />
       <recent name="$PROJECT_DIR$/0x10/plano_mordor/comida" />
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
@@ -52,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00014" summary="1">
-      <created>1652806305157</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1652806305157</updated>
-    </task>
-    <task id="LOCAL-00015" summary="1">
-      <created>1652806446335</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1652806446335</updated>
     </task>
     <task id="LOCAL-00016" summary="1">
       <created>1652806669801</created>
@@ -396,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653409460769</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="2">
+      <created>1653410168603</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1653410168604</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Task Herança">
+      <created>1653410210110</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1653410210110</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +411,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="Task Herança" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task Herança" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
