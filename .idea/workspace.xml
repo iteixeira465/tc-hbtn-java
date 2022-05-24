@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/igabriel/Documentos/workspace/tc-hbtn-java/0x10/plano_mordor/comida&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/igabriel/Documentos/workspace/tc-hbtn-java/0x05"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/0x10/plano_mordor/comida" />
@@ -53,20 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00012" summary="1">
-      <created>1652805516585</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1652805516585</updated>
-    </task>
-    <task id="LOCAL-00013" summary="1">
-      <created>1652806180540</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1652806180540</updated>
     </task>
     <task id="LOCAL-00014" summary="1">
       <created>1652806305157</created>
@@ -397,7 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653393702092</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="1">
+      <created>1653409417861</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1653409417861</updated>
+    </task>
+    <task id="LOCAL-00062" summary="2">
+      <created>1653409460769</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1653409460769</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -412,10 +411,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
