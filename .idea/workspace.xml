@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Task Herança" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Task Herança">
+      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Program.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,27 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00016" summary="1">
-      <created>1652806669801</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1652806669801</updated>
-    </task>
-    <task id="LOCAL-00017" summary="1">
-      <created>1652807300791</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1652807300791</updated>
-    </task>
-    <task id="LOCAL-00018" summary="1">
-      <created>1652807399243</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1652807399243</updated>
     </task>
     <task id="LOCAL-00019" summary="1">
       <created>1652807476213</created>
@@ -393,7 +374,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653410210110</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Task Herança">
+      <created>1653410328479</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1653410328479</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Task Herança">
+      <created>1653410505668</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1653410505668</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Task Herança">
+      <created>1653410588726</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1653410588726</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
