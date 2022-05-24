@@ -1,19 +1,23 @@
-import java.lang.reflect.Modifier;
+public class Quadrado extends Retangulo {
 
-public class Program {
-    public static void main(String[] args) {
-        try {
-            if (Modifier.isAbstract(FormaGeometrica.class.getDeclaredMethod("area").getModifiers()))
-                System.out.println("area() eh uma funcao abstrata");
-            else
-                System.out.println("area() nao eh uma funcao abstrata");
-        } catch (Exception ex) {
-            System.out.println("area() nao eh uma funcao");
-        }
+    private double lado;
 
-        if (Modifier.isAbstract(FormaGeometrica.class.getModifiers()))
-            System.out.println("FormaGeometrica eh uma classe abstrata");
-        else
-            System.out.println("FormaGeometrica nao eh uma classe abstrata");
+    public double getLado() {
+        return lado;
     }
+
+    public void setLado(double lado) {
+        if (lado <= 0){
+            throw new IllegalArgumentException("Lado deve ser maior ou igual a 0");
+        } else {
+            this.altura = lado;
+            this.largura = lado;
+            this.lado = lado;
+        }
+    }
+    @Override
+    public String toString() {
+        return String.format("[Quadrado] %.02f", lado);
+    }
+
 }
