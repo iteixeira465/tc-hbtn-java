@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Task Herança fixação">
-      <change afterPath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Interfaces">
+      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00025" summary="1">
-      <created>1652808668450</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1652808668450</updated>
     </task>
     <task id="LOCAL-00026" summary="1">
       <created>1652808721926</created>
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653568844672</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Interfaces">
+      <created>1653653674141</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1653653674142</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -434,7 +434,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="Task Herança" />
     <MESSAGE value="Task Herança fixação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task Herança fixação" />
+    <MESSAGE value="Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
