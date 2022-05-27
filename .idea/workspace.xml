@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Task Herança fixação">
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x07/workflow/CanalNotificacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,13 +28,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/igabriel/Documentos/workspace/tc-hbtn-java/0x06/resumo_pedido"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/igabriel/Documentos/workspace/tc-hbtn-java/0x06/resumo_pedido&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/0x06/resumo_pedido" />
@@ -74,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00024" summary="1">
-      <created>1652808600774</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1652808600774</updated>
     </task>
     <task id="LOCAL-00025" summary="1">
       <created>1652808668450</created>
@@ -418,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653568441644</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Task Herança fixação">
+      <created>1653568844671</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1653568844672</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
