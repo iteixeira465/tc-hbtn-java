@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Interfaces">
-      <change afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Interfaces Fixação">
+      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +46,7 @@
       <recent name="$PROJECT_DIR$/0x00-java-hello_world" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x08/resumo_pedido/provedores" />
       <recent name="$PROJECT_DIR$/0x06/pedido_livraria/produtos" />
       <recent name="$PROJECT_DIR$/0x04" />
     </key>
@@ -70,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00026" summary="1">
-      <created>1652808721926</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1652808721926</updated>
     </task>
     <task id="LOCAL-00027" summary="1">
       <created>1652808753277</created>
@@ -414,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653653674142</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Interfaces Fixação">
+      <created>1653655646350</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1653655646350</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +439,8 @@
     <MESSAGE value="Task Herança" />
     <MESSAGE value="Task Herança fixação" />
     <MESSAGE value="Interfaces" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces" />
+    <MESSAGE value="Interfaces Fixação" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces Fixação" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
