@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Lists task 2" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Lists task 2">
+      <change afterPath="$PROJECT_DIR$/Enum/Celular/Celular.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00032" summary="1">
-      <created>1652815158811</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1652815158811</updated>
     </task>
     <task id="LOCAL-00033" summary="1">
       <created>1652815280340</created>
@@ -412,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654509347699</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Lists task 2">
+      <created>1654509466621</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1654509466621</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
