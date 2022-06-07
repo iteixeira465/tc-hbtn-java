@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Enum task 1">
-      <change afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Set_Map task 1">
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +72,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00036" summary="1">
-      <created>1652815553598</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1652815553598</updated>
     </task>
     <task id="LOCAL-00037" summary="1">
       <created>1652815608984</created>
@@ -416,7 +409,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654510128271</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Set_Map task 1">
+      <created>1654614176230</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1654614176230</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +443,8 @@
     <MESSAGE value="Lists task 1" />
     <MESSAGE value="Lists task 2" />
     <MESSAGE value="Enum task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enum task 1" />
+    <MESSAGE value="Set_Map task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set_Map task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
