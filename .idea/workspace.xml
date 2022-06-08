@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Generics task 1 parte 2">
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Generics ex task 0 parte 1">
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,13 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00042" summary="1">
-      <created>1653167313292</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1653167313292</updated>
     </task>
     <task id="LOCAL-00043" summary="1">
       <created>1653167355929</created>
@@ -416,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654694001839</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Generics ex task 0 parte 1">
+      <created>1654694262955</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1654694262955</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -449,7 +448,8 @@
     <MESSAGE value="Set_Map task 4" />
     <MESSAGE value="Generics task 1 parte 1" />
     <MESSAGE value="Generics task 1 parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics task 1 parte 2" />
+    <MESSAGE value="Generics ex task 0 parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics ex task 0 parte 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
