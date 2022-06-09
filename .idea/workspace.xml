@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Generics ex task 0 parte 2">
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Collections ex task 0">
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00044" summary="1">
-      <created>1653167495514</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1653167495514</updated>
     </task>
     <task id="LOCAL-00045" summary="1">
       <created>1653168274035</created>
@@ -420,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654694313576</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Collections ex task 0">
+      <created>1654773851412</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1654773851412</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -455,7 +453,8 @@
     <MESSAGE value="Generics task 1 parte 2" />
     <MESSAGE value="Generics ex task 0 parte 1" />
     <MESSAGE value="Generics ex task 0 parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics ex task 0 parte 2" />
+    <MESSAGE value="Collections ex task 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections ex task 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
