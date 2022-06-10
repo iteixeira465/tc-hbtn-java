@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Collections ex task 1">
-      <change afterPath="$PROJECT_DIR$/0x02/divisao/Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02/divisao/Program.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Exceptions task 0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00046" summary="1">
-      <created>1653313432403</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1653313432403</updated>
     </task>
     <task id="LOCAL-00047" summary="1">
       <created>1653313603004</created>
@@ -416,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654774121927</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Exceptions task 0">
+      <created>1654774592350</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1654774592350</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,7 +451,8 @@
     <MESSAGE value="Generics ex task 0 parte 2" />
     <MESSAGE value="Collections ex task 0" />
     <MESSAGE value="Collections ex task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections ex task 1" />
+    <MESSAGE value="Exceptions task 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions task 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
