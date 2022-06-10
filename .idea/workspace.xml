@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Exceptions task 1" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Exceptions II task 0">
+      <change afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +74,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00048" summary="1">
-      <created>1653313690595</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1653313690596</updated>
     </task>
     <task id="LOCAL-00049" summary="1">
       <created>1653313760705</created>
@@ -412,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654864516061</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Exceptions II task 0">
+      <created>1654864889832</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1654864889832</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +457,8 @@
     <MESSAGE value="Collections ex task 1" />
     <MESSAGE value="Exceptions task 0" />
     <MESSAGE value="Exceptions task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions task 1" />
+    <MESSAGE value="Exceptions II task 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions II task 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
