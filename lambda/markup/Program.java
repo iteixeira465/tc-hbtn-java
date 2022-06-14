@@ -11,5 +11,6 @@ public class Program {
         System.out.printf("%s - %.2f - %.2f\n", produto1.getNome(),
                 produto1.getPreco(),
                 produto1.precoComMarkup.get());
+
     }
 }
