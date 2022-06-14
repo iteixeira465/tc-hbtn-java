@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Exceptions II task 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="lambda expressions task 0">
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/igabriel/Documentos/workspace/tc-hbtn-java/0x06/resumo_pedido",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/igabriel/Documentos/workspace/tc-hbtn-java/0x06/resumo_pedido&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/0x06/resumo_pedido" />
@@ -74,27 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00052" summary="3">
-      <created>1653320701401</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1653320701401</updated>
-    </task>
-    <task id="LOCAL-00053" summary="3">
-      <created>1653321647269</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1653321647269</updated>
-    </task>
-    <task id="LOCAL-00054" summary="1">
-      <created>1653326594855</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1653326594855</updated>
     </task>
     <task id="LOCAL-00055" summary="1">
       <created>1653326802340</created>
@@ -418,7 +400,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654865600782</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="Exceptions II task 3">
+      <created>1655206981859</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1655206981859</updated>
+    </task>
+    <task id="LOCAL-00102" summary="lambda expressions task 0">
+      <created>1655207021746</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1655207021746</updated>
+    </task>
+    <task id="LOCAL-00103" summary="lambda expressions task 0">
+      <created>1655207097742</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1655207097742</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +436,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task Herança" />
     <MESSAGE value="Task Herança fixação" />
     <MESSAGE value="Interfaces" />
     <MESSAGE value="Interfaces Fixação" />
@@ -458,7 +460,8 @@
     <MESSAGE value="Exceptions II task 1" />
     <MESSAGE value="Exceptions II task 2" />
     <MESSAGE value="Exceptions II task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions II task 3" />
+    <MESSAGE value="lambda expressions task 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions task 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
