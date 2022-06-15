@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="lambda expressions fixação task">
-      <change afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="lambda expressions fixação task 1">
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +80,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00057" summary="1">
-      <created>1653327049650</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1653327049650</updated>
     </task>
     <task id="LOCAL-00058" summary="1">
       <created>1653393246100</created>
@@ -418,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655207454385</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="lambda expressions fixação task 1">
+      <created>1655207612045</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1655207612045</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,7 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Interfaces Fixação" />
     <MESSAGE value="Interfaces Fixação 2" />
     <MESSAGE value="Lists 1" />
     <MESSAGE value="Lists task 1" />
@@ -458,7 +463,8 @@
     <MESSAGE value="lambda expressions task 0" />
     <MESSAGE value="lambda expressions task 1" />
     <MESSAGE value="lambda expressions fixação task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions fixação task" />
+    <MESSAGE value="lambda expressions fixação task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda expressions fixação task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
