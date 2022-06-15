@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Streams tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="Streams fixação task 1">
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,20 +76,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00063" summary="2">
-      <created>1653410168603</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1653410168604</updated>
-    </task>
-    <task id="LOCAL-00064" summary="Task Herança">
-      <created>1653410210110</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1653410210110</updated>
     </task>
     <task id="LOCAL-00065" summary="Task Herança">
       <created>1653410328479</created>
@@ -418,7 +406,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655295881276</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Streams fixação task 0">
+      <created>1655296422912</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1655296422913</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Streams fixação task 1">
+      <created>1655296523079</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1655296523080</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -433,8 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lists task 1" />
-    <MESSAGE value="Lists task 2" />
     <MESSAGE value="Enum task 1" />
     <MESSAGE value="Set_Map task 1" />
     <MESSAGE value="Set_Map task 2" />
@@ -458,7 +458,9 @@
     <MESSAGE value="lambda expressions fixação task 1" />
     <MESSAGE value="streams task 1" />
     <MESSAGE value="Streams tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Streams tasks" />
+    <MESSAGE value="Streams fixação task 0" />
+    <MESSAGE value="Streams fixação task 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Streams fixação task 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
