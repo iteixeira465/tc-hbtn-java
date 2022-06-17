@@ -25,6 +25,7 @@
     <list default="true" id="4c3c18ef-93f6-40db-b307-88f2282c5a52" name="Changes" comment="serialização">
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/tc-hbtn-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,20 +122,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652802459187</updated>
-    </task>
-    <task id="LOCAL-00067" summary="Task Herança">
-      <created>1653410588726</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1653410588726</updated>
-    </task>
-    <task id="LOCAL-00068" summary="Task Herança">
-      <created>1653410658294</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1653410658294</updated>
     </task>
     <task id="LOCAL-00069" summary="Task Herança">
       <created>1653410840514</created>
@@ -465,7 +452,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655468598743</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="serialização">
+      <created>1655468819067</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1655468819068</updated>
+    </task>
+    <task id="LOCAL-00117" summary="serialização">
+      <created>1655468920689</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1655468920689</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,6 +508,20 @@
     <MESSAGE value="Streams fixação task 1" />
     <MESSAGE value="serialização" />
     <option name="LAST_COMMIT_MESSAGE" value="serialização" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1655469708184">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1655469708184" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1655468612436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1655468612436" />
+    <state x="65" y="25" key="new project wizard" timestamp="1655469710864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1655469710864" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
